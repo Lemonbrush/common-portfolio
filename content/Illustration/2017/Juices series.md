@@ -6,8 +6,7 @@ date: 2017-07-20
 ---
 
 # Flying juice
-![[Resources/2017/png/juices/сок.png]]
-
+![[Resources/2017/png/juices/Flying/сок.png]]
 # Dude juice
 ![[Resources/2017/png/juices/juiceDude/Самосок-2.png]]
 
